@@ -4,4 +4,8 @@
  * See: https://www.gatsbyjs.com/docs/node-apis/
  */
 
-// You can delete this file if you're not using it
+const { createFilePath } = require(`gatsby-source-filesystem`)
+
+exports.onCreateNode = ({ node }) => {
+  console.log(`Node created of type "${node.internal.type}"`)
+}

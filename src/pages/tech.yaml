@@ -1,0 +1,78 @@
+name: Containers
+years: 5
+icon: box
+proficiency: 8
+related:
+  - Docker
+  - Kubernetes
+  - Operators
+  - Microservices
+description: |
+  I enjoy the solving the problem of running complex software in isolated
+  processes, and shipping them in a nice solid package. Mostly with Docker, but
+  some with Kubernetes.
+
+---
+
+name: HTML and CSS
+years: 15
+icon: file-code
+proficiency: 6
+versions:
+  - XHTML
+  - HTML5
+related:
+  - Bootstrap
+description: |
+  I can make a webpage that doesn't look horrible. I've used a few different
+  templating engines to build HTML as well. I've used 3 different versions of
+  Bootstrap.
+
+---
+
+name: TypeScript
+years: 0.5
+icon: braces
+proficiency: 6
+versions:
+  - TypeScript 4.2
+related:
+  - JavaScript/ECMAScript
+description: |
+  I already knew JavaScript, but I've found TypeScript to be very helpful when
+  learning React. It would be difficult for me to go back to ECMAScript after
+  such an amazing experience.
+
+---
+
+name: React
+years: 0.5
+icon: peace
+proficiency: 5
+versions:
+  - React 17
+related:
+  - Yarn
+  - NPM
+  - Redux
+  - Redux Toolkit
+description: |
+  I recently redid my website using React and React-Bootstrap to improve my
+  front-end skills. I like it.
+
+---
+
+name: OpenAPI
+years: 3
+icon: signpost-2
+proficiency: 6
+versions:
+  - Swagger 2.0
+  - OpenAPI 3.0
+related:
+  - RESTful APIs
+  - RESTish APIs
+description: |
+  Designing APIs using OpenAPI was very helpful as the front-end could load all
+  of the information for the API dynamically. That kind of metaprogramming is my
+  favourite kind of work.

@@ -1,0 +1,58 @@
+organization: IBM
+icon: briefcase
+positions:
+  - yearStart: 2018
+    title: Software Developer
+    description: |
+      Java monoliths and Go command-line tools interspersed between
+      meetings. I helped develop a tool for managing containers inside of a VM,
+      and a companion tool for troubleshooting the deployment, management, and
+      health of the containers. Working remotely since March 2020.
+    tags:
+      - Docker
+      - Go
+      - Agile
+      - Iteration Manager
+      - Java
+      - Groovy
+      - Bash
+
+---
+
+organization: The Learning Bar
+icon: book
+positions:
+  - yearStart: 2017
+    yearEnd: 2018
+    title: Software Developer
+    description: |
+      Full-stack PHP/Yii web app maintenance, optimization, and features.
+      I also helped manage their AWS deployment.
+    tags:
+      - PHP
+      - Yii
+      - Docker
+      - Kubernetes
+      - CI/CD
+      - AWS
+      - Bash
+
+---
+
+organization: AirVM
+icon: cloud
+positions:
+  - yearStart: 2015
+    yearEnd: 2017
+    title: Software Developer
+    description: |
+      Maintained an existing VM Provisioning monolithic application before we
+      started refactoring into a cloud-based containzerized microservice-based
+      application hosted in AWS. I also set up the CI/CD pipeline.
+    tags:
+      - PHP
+      - Code Igniter
+      - Docker
+      - CI/CD
+      - AWS
+      - Bash
